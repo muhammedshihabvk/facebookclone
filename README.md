@@ -1,6 +1,6 @@
 # facebookclone
 
-A new Flutter facebook clone application.
+A new Flutter facebook clone application for learning purpose.
 
 ![Image description](sample1.PNG)
 ![Image description](sample2.PNG)
